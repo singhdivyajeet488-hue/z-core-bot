@@ -11,4 +11,4 @@ Full featured Discord Bot with web dashboard.
 
 Features: Moderation, Music, Leveling, Economy, Dashboard, etc.
 
-Deploy on Railway or Docker.
+Deploy on Railway or Docker.# Updated
