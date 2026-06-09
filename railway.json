@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm ci",
+  "startCommand": "npm start",
+  "env": {
+    "DATABASE_PATH": "/data/database.sqlite"
+  }
+}
