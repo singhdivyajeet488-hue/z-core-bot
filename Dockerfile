@@ -8,7 +8,6 @@ RUN npm install --only=production
 
 COPY . .
 
-RUN npm run migrate
 
 EXPOSE 3000
 
